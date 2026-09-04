@@ -1,6 +1,6 @@
 # pcb-solder
 
-A simple custom shaped PCB designed as a shark keychain with led and 555 timer.
+A simple custom shaped PCB designed as a shark keychain with blink led and 555 timer.
 
 The goal of the project was to combine electronic circuit with a creative PCB shape to make a cool keychain.
 
@@ -12,18 +12,21 @@ The goal of the project was to combine electronic circuit with a creative PCB sh
 |-----------|-------|-----|
 | CR2032 Battery Holder | 3V | 1 |
 | 5mm LED | Red | 1 |
-| Resistor | 47kΩ | 2 |
+| Resistor | 4.7kΩ | 2 |
+| Resistor | 47kΩ | 1 |
 | Resistor | 220Ω | 1 |
-| Push Button | 6mm | 2 |
+| Push Button | 6mm | 1 |
 | 555 timer | -- | 1 |
+| capacitor | 10uF | 1 |
 
-**Total: 8 components**
+**Total: 9 components**
 
 ---
 
 schematic photo
 
-<img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/da274692-9c3e-42ed-b4b0-5911380a47ea" />
+<img width="1331" height="870" alt="image" src="https://github.com/user-attachments/assets/48500ae3-f760-45fc-b794-6ef6a2f4adae" />
+
 
 
 
@@ -31,7 +34,8 @@ schematic photo
 
 pcb photo
 
-<img width="1547" height="788" alt="image" src="https://github.com/user-attachments/assets/a14e992f-f2cb-435d-a877-45c56c89a6b9" />
+<img width="1197" height="523" alt="image" src="https://github.com/user-attachments/assets/e2e366dc-3336-48a4-ac84-970d241fd320" />
+
 
 
 
@@ -39,15 +43,18 @@ pcb photo
 
 3d view
 
-<img width="1140" height="438" alt="image" src="https://github.com/user-attachments/assets/9066ca93-0e98-43c4-8c56-e0393bdf87d2" />
+<img width="1135" height="496" alt="image" src="https://github.com/user-attachments/assets/e90c4df1-4f48-4ac5-8ffa-ca70489705ba" />
 
-<img width="1067" height="532" alt="image" src="https://github.com/user-attachments/assets/683fc297-a7d3-4e38-a239-baa286130fea" />
+
+<img width="1135" height="483" alt="image" src="https://github.com/user-attachments/assets/98c3d75f-b929-41a5-8b31-bd6360af4260" />
+
 
 --- 
 
 photo in jlcpcb
 
-<img width="1206" height="261" alt="image" src="https://github.com/user-attachments/assets/be4c9c0c-c2bb-447f-8683-c7f9b05c4b16" />
+<img width="1202" height="273" alt="image" src="https://github.com/user-attachments/assets/ff9378c9-020c-4b9d-b4d1-9633cdfa7bf6" />
+
 
 ---
 
