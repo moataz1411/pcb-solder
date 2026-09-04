@@ -1355,12 +1355,6 @@
 		(uuid "201e5aac-bb13-42f9-8e1d-e8b528bb3fcd")
 	)
 	(junction
-		(at 177.8 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e311d9b-829b-4757-adc4-dfab71ff9d55")
-	)
-	(junction
 		(at 166.37 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1371,12 +1365,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73bd3a3c-430d-424d-be2b-4eb09fa4db86")
-	)
-	(junction
-		(at 187.96 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "743facb3-864f-4bf1-8095-338290644e2d")
 	)
 	(junction
 		(at 146.05 86.36)
@@ -1428,7 +1416,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 78.74) (xy 187.96 81.28)
+			(xy 187.96 77.47) (xy 187.96 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1448,16 +1436,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 78.74) (xy 177.8 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b396b9d-58fd-4c20-bd64-88d188c72600")
-	)
-	(wire
-		(pts
 			(xy 166.37 105.41) (xy 175.26 105.41)
 		)
 		(stroke
@@ -1465,16 +1443,6 @@
 			(type default)
 		)
 		(uuid "7a85be25-e945-442e-a0d1-2f3fc85e1bbb")
-	)
-	(wire
-		(pts
-			(xy 177.8 78.74) (xy 177.8 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e71c2f7-3399-40de-9185-48d648b215e7")
 	)
 	(wire
 		(pts
@@ -1515,16 +1483,6 @@
 			(type default)
 		)
 		(uuid "bfe54fcb-41f2-462c-ba63-38aca1bff92b")
-	)
-	(wire
-		(pts
-			(xy 187.96 77.47) (xy 187.96 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2a9e53a-5e64-432d-8015-038097049ba7")
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
