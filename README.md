@@ -23,14 +23,16 @@ The goal of the project was to combine electronic circuit with a creative PCB sh
 
 schematic photo
 
-<img width="1161" height="683" alt="image" src="https://github.com/user-attachments/assets/36998bae-3278-4b79-ad8a-2339dad093b2" />
+<img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/da274692-9c3e-42ed-b4b0-5911380a47ea" />
+
 
 
 ---
 
 pcb photo
 
-<img width="932" height="370" alt="image" src="https://github.com/user-attachments/assets/c1dcdb51-9f0b-43a1-ac17-4d9fa8d322c4" />
+<img width="1547" height="788" alt="image" src="https://github.com/user-attachments/assets/a14e992f-f2cb-435d-a877-45c56c89a6b9" />
+
 
 
 ---
